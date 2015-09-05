@@ -1,4 +1,4 @@
-package andycpp;
+package com.hai.andycpp;
 
 import static org.junit.Assert.*;
 

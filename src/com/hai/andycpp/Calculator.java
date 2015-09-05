@@ -1,4 +1,4 @@
-package andycpp;
+package com.hai.andycpp;
 
 public class Calculator {
 	 private static int result; // 静态变量，用于存储运行结果
